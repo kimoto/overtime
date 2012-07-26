@@ -1,5 +1,5 @@
 # What is this
-Time.parse parsable 'overtime' format
+Time#parse parsable overtime time format: example '2012/01/01 26:30:00' 
 
 # Install
 gem install 'overtime'
